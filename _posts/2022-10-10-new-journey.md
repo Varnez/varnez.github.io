@@ -31,7 +31,7 @@ comments: true
  
  Let us begin.
 </p>
-<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b><i>- Álvaro, 10th of September, 2022</b></i>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b><i>- Varnez, 10th of September, 2022</b></i>
 </p></span>
 </div>
 
