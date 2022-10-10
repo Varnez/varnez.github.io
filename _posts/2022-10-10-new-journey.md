@@ -83,4 +83,12 @@ Thus, it seems to tackle those two previous points: the proper contextualization
 system and trying to adapt the teaching from the field of Psychometrics into a mean to evaluate the generalization (addressed straightforward as Intelligence itself)
 capabilities of an artificial system.
 
-My next article(s?) will revolve around my own notes as I traverse and gain ingisht on the inner bellies of this insighful work.
+Also, again in the second article, Robert Tjarko Lange points to a very interesting point when summaryzing the different key insights on prior efforts on solving [the challenge](https://github.com/fchollet/ARC) that Chollet proposed along with his paper: 
+
+> Core knowledge is hard to encode. Relational deep learning and geometric deep learning provide promising perspectives but are still in their infant stages. We are far from being able to emulate evolution with meta-learning.
+
+These comment alone open up the road for two potentially promising paths: **Relational** and **Geometric** deep learning, both fairly unknown to me. Any of those could be very promissing ambits in which to base a thesis. I will keep an eye on them.
+
+To beging with, I will start over the reference provided in the article, [An Explicitly Relational Neural Network Architecture](https://arxiv.org/abs/1905.10307), a paper published on May from 2019 by Murray Shanahan et al on the ambit of Relational Deep Learning. Its abrstract states as follows:
+
+> With a view to bridging the gap between deep learning and symbolic AI, we present a novel end-to-end neural network architecture that learns to form propositional representations with an explicitly relational structure from raw pixel data. In order to evaluate and analyse the architecture, we introduce a family of simple visual relational reasoning tasks of varying complexity. We show that the proposed architecture, when pre-trained on a curriculum of such tasks, learns to generate reusable representations that better facilitate subsequent learning on previously unseen tasks when compared to a number of baseline architectures. The workings of a successfully trained model are visualised to shed some light on how the architecture functions.
