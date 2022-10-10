@@ -28,7 +28,7 @@ comments: true
  Let us begin.<br/>
 </p>
 <p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> 
- <b><i>Varnez, 10th of September, 2022</i></b>
+ <b><i>Varnez<br/>10th of September, 2022</i></b>
 </p>
 </span>
 </div>
