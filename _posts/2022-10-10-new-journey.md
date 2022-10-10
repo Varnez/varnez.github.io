@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 9th of September, 2022
-subtitle: New Journey
-gh-repo: 
-tags: [test]
+title: 10th of September, 2022
+subtitle: New Journey 
 readtime: true
 comments: true
 ---
@@ -12,24 +10,22 @@ comments: true
 <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
 <span>
 <p style='margin-top:1em; text-align:center'>
-<b>On the importance of sentence length</b></p>
+<b>With this post, I begin a new journey.</b></p>
 <p style='margin-left:1em;'>
- With this post, I begin a new journey.
- 
  General Artificial Intelligence is something that has always been able to spark a flame of the best kind of curiosity there is within me, but, in a sense, 
- even though it would be obvious to do so, it is a curiosity I've never actually persued to develop into actuall founded knowdledge.
+ even though it would be obvious to do so, it is a curiosity I've never actually persued to develop into actuall founded knowdledge.<br/><br/>
  
- With the start of my master's degree and the open question of a thesis project, I think the time is nigh to get my hands on this matter once and for all.
+ With the start of my master's degree and the open question of a thesis project, I think the time is nigh to get my hands on this matter once and for all.<br/><br/>
  
  This is my first post of what will be a recopilation of material, publications and personal notes on the current state of the art in the ambit of General 
- Artificial Intelligence.
+ Artificial Intelligence.<br/><br/>
  
- Also, in this header notes I might ramble a little. Sorry for that. 
+ Also, in this header notes I might ramble a little. Sorry for that.<br/><br/>
  
  I think it is within the blood: as much as I wanted this to be as straight to the point as I could make it, one cannot avoid giving their ego a voice. 
- At least when it comes to that one being me.
+ At least when it comes to that one being me.<br/><br/>
  
- Let us begin.
+ Let us begin.<br/>
 </p>
 <p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'> <b><i>- Varnez, 10th of September, 2022</b></i>
 </p></span>
@@ -85,4 +81,4 @@ Thus, it seems to tackle those two previous points: the proper contextualization
 system and trying to adapt the teaching from the field of Psychometrics into a mean to evaluate the generalization (addressed straightforward as Intelligence itself)
 capabilities of an artificial system.
 
-My next article(s ?) will revolve around my own notes as I traverse and gain ingisht on the inner bellies of this insighful work.
+My next article(s?) will revolve around my own notes as I traverse and gain ingisht on the inner bellies of this insighful work.
