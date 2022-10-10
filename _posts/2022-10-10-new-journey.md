@@ -72,8 +72,8 @@ contains to be a part of my mental landscape on the topic before I consider next
 In the meant time, very unlike me in any other ambit of getting to know a thing, I've made me a few spoilers by reading a couple of brief articles summarizing its 
 contents, just to have a lead on what to expect within the paper's pages.
 
-- https://pgpbpadilla.github.io/chollet-general-intelligence-test
-- https://roberttlange.github.io/posts/2020/02/on-the-measure-of-intelligence/
+- [François Chollet's general intelligence test, by Pablo Padila](https://pgpbpadilla.github.io/chollet-general-intelligence-test)
+- [On “On the Measure of Intelligence” by F. Chollet (2019), by Robert Tjarko Lange](https://roberttlange.github.io/posts/2020/02/on-the-measure-of-intelligence/)
 
 In them it is highlighted its inspiration on [Psychometrics](https://en.wikipedia.org/wiki/Psychometrics). As Robert Tjarko Lange writes in the second article:
 
