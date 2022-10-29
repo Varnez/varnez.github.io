@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10th of September, 2022
+title: 10th of October, 2022
 subtitle: New Journey 
 readtime: true
 comments: true
