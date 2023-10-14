@@ -34,16 +34,16 @@ comments: true
 </div>
 
 
-With this very first post(s?) I aim to get a general view of the current state of General Artificial Intelligence, as well as the current open approach paths.
+With this very first post I aim to get a general view of the current state of General Artificial Intelligence, as well as the current open approach paths.
 
 After visiting a couple of post with very straightforward searches, it is easy to realice that, nowadays, the conversation is very shifted towards separating
-the necessity of shaping AGI entirely after the human mind. It seems obvious to base our idea of General Intelligence in the most, let's say, advance case of
-it that we can find (given that other animals can still be considered to posses a mean of General Intelligence), but as it is wonderfully exposed in the following
-article, [(The flawed quest for Artificial General Intelligence - do you need to know how the mind works for AGI?)](https://diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi):
+the necessity of shaping AGI entirely after the human mind. It seems obvious to base our idea of General Intelligence in the most successful case
+that we can find, but as it is wonderfully exposed in the following
+article, [The flawed quest for Artificial General Intelligence - do you need to know how the mind works for AGI?](https://diginomica.com/flawed-quest-artificial-general-intelligence-do-you-need-know-how-mind-works-agi):
 
 > The problem is that developing a human-level AI without understanding how the mind works will be an entity that does not possess the same reality as humans.
 
-As it develops, this consideration seem rooted in that the current environment of AGI is focused on reproducing said General Intelligence only from the perspective of
+As it develops, this consideration seem rooted in that the current environment of AGI is focused on reproducing said General Intelligence explicitly from the perspective of
 the mind as a phenomena that takes place uniquely on the brain, while [current cognitive theories (Embodied Cognition)](https://en.wikipedia.org/wiki/Embodied_cognition) find our cognitive system deeply rooted within the complete extent of
 our nervous system.
 
@@ -51,25 +51,25 @@ Nevertheless, in that same previously mentioned article, there is a very interes
 
 > We have to use different techniques — different **self-organizing methods** — that are biologically inspired.
 
-I wanted to make a heavy emphasis to those **self-organizing methods**, because as far as I currently know, that is the base the current main paths being nowadays
+I wanted to make a heavy emphasis to those **self-organizing methods**, because as I currently understand it know, that is the base the current main paths being nowadays
 taken in AGI: a self-organizing hierarchical system of multiple levels of intelligence, being the current narrow approaches the smallest 'lego brick' within this
 structure.
 
-In those lines, I would right no think there is no better authority to get on board in such a complex topic than the own François Chollet, already mentioned in the
-previous article, as well in probably most any other article on the topic out there. In 2019, he published his work [On Measure of Intelligence](https://arxiv.org/abs/1911.01547).
+In those lines, the own François Chollet already mentioned in the previous article, as well in probably most any other article on the topic out there. In 2019, he published
+his work [On Measure of Intelligence](https://arxiv.org/abs/1911.01547).
 
 In this white paper, François Chollet points out the current differences in scope when we speak on Intelligence, depending on it being Biological or Artificial. This
-was a few years ago - AGI hadn't earned yet a place in the mediatic spotlight, and the expectancies on narrow AI were as prevalent as they might ever be, thus such a
+was a few years ago - AGI hadn't earned yet a place in a mediatic spotlight, and the expectancies on narrow AI were as prevalent as they might ever be, thus such a
 take on Artificial Intelligence take.
 
 The problem has in roots in conceiving Intelligence itself: it will only grow as much as we are able to conceive it might grow, and thus if we want it to break a
 certain given limit, it is imperative for us to be able instruct the machine a set of objectives that translate into the breakthrough of said task.
 
 Thus, one of the main point in Chollet's paper is a measurement of this ambit of Generallity for an Intelligent system. At least, this is as much as I know, since I
-have to admit, not without shame, that I still haven't properly read his paper in its full extent. That is my next main objective, since I want all the insight it
+have to admit, I still haven't properly read his paper in its full extent. That is my next main objective, since I want all the insight it
 contains to be a part of my mental landscape on the topic before I consider next steps.
 
-In the meant time, very unlike me in any other ambit of getting to know a thing, I've made me a few spoilers by reading a couple of brief articles summarizing its
+In the meant time, I've made me a few spoilers by reading a couple of brief articles summarizing its
 contents, just to have a lead on what to expect within the paper's pages.
 
 - [François Chollet's general intelligence test, by Pablo Padila](https://pgpbpadilla.github.io/chollet-general-intelligence-test)
@@ -83,7 +83,7 @@ Thus, it seems to tackle those two previous points: the proper contextualization
 system and trying to adapt the teaching from the field of Psychometrics into a mean to evaluate the generalization (addressed straightforward as Intelligence itself)
 capabilities of an artificial system.
 
-Also, again in the second article, Robert Tjarko Lange points to a very interesting point when summaryzing the different key insights on prior efforts on solving [the challenge](https://github.com/fchollet/ARC) that Chollet proposed along with his paper:
+Also, again in the second article, Robert Tjarko Lange points to a very interesting point when summarizing the different key insights on prior efforts on solving [the challenge](https://github.com/fchollet/ARC) that Chollet proposed along with his paper:
 
 > Core knowledge is hard to encode. Relational deep learning and geometric deep learning provide promising perspectives but are still in their infant stages. We are far from being able to emulate evolution with meta-learning.
 
